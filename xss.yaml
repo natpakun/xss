@@ -2,4 +2,4 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-      <a href="javascript:void(0);" onclick="alert(document.domain)">xss</a>
+      <a href="javascript:void(0);" onclick="alert(test)">xss</a>
